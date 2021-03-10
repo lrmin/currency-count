@@ -58,6 +58,7 @@
     </dependencies>
 
     <build>
+        <finalName>currency-count</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
